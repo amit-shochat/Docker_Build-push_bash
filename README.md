@@ -17,5 +17,5 @@ Arguments you can use on the script OR -help/-h on CLI
    
 
 Example command to run:                                         
-bash Docker_Build-Push.sh -u <Your-username\> -p <Your-password\> -c <Contaqiner-name| exmaple=alpine\>
+>bash Docker_Build-Push.sh -u <Your-username\> -p <Your-password\> -c <Contaqiner-name| exmaple=alpine\>
        
